@@ -1,0 +1,1 @@
+Git é um terminal parecido com o CMD, porem utilizado para enviar seus projetos para um versionador de codigo chamado GItHub, onde pessoas de todo mundo poderão acessar seu codigo de forma segura para voce e para o outro usuario, assim fazendo com que voce divulgue seu codigo tanto para pessoas estudarem quanto para empresas te avaliarem.
